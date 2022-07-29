@@ -1,0 +1,106 @@
+ body{
+    margin: auto 0;
+ }
+
+ .login {
+    position: relative;
+    left: 1200px;
+    font-size: 20px;
+}
+.join {
+     position: relative;
+    left: 1300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background-color: orange;
+}
+
+
+ #navlist {
+        background-color: #F5F5F5;
+        
+       padding-top: 40px;
+
+    }
+
+
+    .search input[type=text]{
+        width:300px;
+        height:40px;
+        border-color: black;
+         margin: 0 auto;
+        display: block;
+        padding-top: 10px;
+        
+    }
+         
+    .search{
+       
+        margin:7px;
+    }
+.backimg {
+    height: 500px;
+    width: 100%;
+    margin: auto 0;
+}    
+
+.line{
+    height: 5px;
+  border: none;
+  background-color: orange;
+  width:300px;
+  padding-right: 300px;
+  margin-left: 100px;
+
+}
+h1{padding-top: 170px;
+
+
+
+
+
+
+}
+.img2{
+    height:400px;
+    width: 350px;
+    padding-left: 200px;
+    padding-top: 100px;
+    padding-right: 100px;
+    
+    float:left;
+}
+.products{
+    margin-top: 200px;
+    margin-left: 270px;
+    
+}
+
+.column {
+  display: inline-block;
+  width: 15%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  display: table;
+}
+.m1{margin-left: 270px;}
+.t1{margin-left: 670px;}
+.joinus{
+     width:300px;
+        height:40px;
+        border: none;
+         margin: 0 auto;
+        display: block;
+        padding: 10px;
+}
+.b2{
+    background-color: orange;
+    border-color: orange;
+    
+}
+
+</style>
